@@ -1,0 +1,5 @@
+2016 US Presidential Election,Trump,Clinton
+Hawaii,17500,41258,
+Honolulu,90296,175634,
+Kauai,7574,16456,
+Maui,13445,33479,
